@@ -1,0 +1,25 @@
+Name: Manasi Thakkar
+
+
+1) What did you change/enhance from part 1?
+I added one more page for blog posts. Also changed little bit of CSS in two pages: Resume and Course history. 
+I also added "translate" functionality in my website.
+
+2) If there was a third part to the class project, what would you like to implement?
+In the third part of the project I would add more meaningful content to my website. I have some ideas on how I can make 
+"course hisotry" page more meaningful. I can add all the things I have accomplished in each particular class, add some 
+final notes (which I can refer anytime in future for my future interviews ) and so on.
+
+3) What did you learn between part 1 and part 2?
+The main thing I learned between part 1 and part 2 is javaScript and little bit of JQuery. JQuery I am still not very 
+confident about but I do have good understanding of JavaScript now. Also I understad JQuery little bit better which will 
+help me in future.
+
+4) What did you like about this project? How could it have been better?
+I liked this project. I think it was really meaningful project. I wanted to have my personal website for so long but never was
+really able to put this amount of effort in it. Also this class and project in general provided good tools to make
+it more easier. Having google is good thing but only if you know what to look for. This is exacty what this project/class
+gave me. I really enjoyed making website and as a beginner who didn't know anything about HTML/CSS/JavaScript/PHP, I feel
+like by the end I have accomplished a lot. 
+
+Thank you.
